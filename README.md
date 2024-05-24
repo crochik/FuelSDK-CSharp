@@ -1,6 +1,7 @@
 Salesforce Marketing Cloud Fuel SDK for C# 
 ============
 
+https://developer.salesforce.com/docs/marketing/marketing-cloud/guide/get-started-index.html
 
 ## Overview ##
 The Salesforce Marketing Cloud C# SDK enables developers to easily access the Salesforce Marketing Cloud (formerly ExactTarget) via the C# platform. Among other things, the SDK:
